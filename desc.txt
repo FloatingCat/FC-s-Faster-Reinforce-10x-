@@ -1,0 +1,9 @@
+[h1]Faster Reinforce（10x）[/h1]
+[b]Modified vanilla fleet reinforcement speed.[/b]
+[b]No configuration is required, you can just enable this mod directly.[/b]
+[b]As long as Paradox does not make break change of codes , this version will work fine for the long term...[/b]
+
+[h1]更快的舰队增援（10倍速度）[/h1]
+[b]修改原版舰队增援速度[/b]
+[b]无需配置，直接启用本mod即可[/b]
+[b]只要Paradox官方不进行代码修改，该版本在长久的未来都可以正常使用[/b]
